@@ -1,0 +1,4 @@
+- hey I'm aqua! im a 14 year old passionate coder
+- i main in python but i dabble a bit in js
+- obsessed with Minecraft
+- have a good day!
